@@ -1,10 +1,8 @@
-#include <DHT.h>
-
-
 /*Humidity, Temperature and Foto sensors
  * YL-38 e YL69
  * Hackaton project 
  */
+#include <DHT.h>
 
 #define pin_DHT11 D0
 #define pin_foto A0
