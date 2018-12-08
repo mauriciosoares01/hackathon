@@ -1,5 +1,5 @@
 /*Humidity, Temperature and Foto sensors
- * YL-38 e YL69
+ * DHT11 and A050
  * Hackaton project 
  */
 #include <DHT.h>
