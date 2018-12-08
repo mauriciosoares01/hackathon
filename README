@@ -1,0 +1,8 @@
+#Monitoring system
+
+A monitoring automated system for the grape cultivation with arduino.
+
+#Sensors
+DHT11 - Humidity and temperature
+A050 - Fotosensor
+
